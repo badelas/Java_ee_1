@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Hello world of Paris !</h1>
+<h1>Hello world !</h1>
 
         <p><c:out value="Bonjour tout le monde !!!" /></p>
         <c:out value="Merde"></c:out>
