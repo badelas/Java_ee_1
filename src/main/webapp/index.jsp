@@ -10,7 +10,7 @@
 <body>
 <h1>Hello world !</h1>
 
-        <p><c:out value="Bonjour !" /></p>
+        <p><c:out value="Bonjour tout le monde !!!" /></p>
         <c:out value="Merde"></c:out>
         
             <c:if test="${ 3 < 10 }">c'est bon !</c:if>
